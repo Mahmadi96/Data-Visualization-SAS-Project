@@ -26,7 +26,3 @@
 - `dashboard`
 - `traffic-safety`
 - `portfolio-project`
-
-## After uploading
-
-Replace `ADD-YOUR-LINKEDIN-URL` in `README.md` with your LinkedIn URL. Then test the dashboard images and PDF report links from an incognito/private browser window.
