@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use or reference this portfolio project, please cite it as below."
+title: "Causes of Traffic Accidents in the Netherlands"
+type: software
+authors:
+  - family-names: "Ahmadi"
+    given-names: "Madiha"
+repository-code: "https://github.com/Mahmadi96/netherlands-traffic-accidents-sas"
+abstract: "A SAS Viya Visual Analytics portfolio project exploring descriptive patterns associated with traffic accidents in the Netherlands."
+keywords:
+  - SAS Viya
+  - SAS Visual Analytics
+  - traffic accidents
+  - data visualisation
+  - dashboard
