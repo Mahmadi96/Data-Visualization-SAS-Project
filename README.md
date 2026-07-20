@@ -179,10 +179,9 @@ Future improvements could include exposure-adjusted rates, statistical testing, 
 ## Author
 
 **Madiha Ahmadi**  
-MSc Data Science Graduate
 
 - [GitHub profile](https://github.com/Mahmadi96)
-- [LinkedIn](ADD-YOUR-LINKEDIN-URL)
+- [LinkedIn](https://www.linkedin.com/feed)
 
 ## Disclaimer
 
